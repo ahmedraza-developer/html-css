@@ -1,0 +1,49 @@
+.wrapper{
+    display: flex;
+}
+/* .one1{
+    margin: 0px;
+    padding: 20px;
+    padding-bottom: 30px;
+    background-color: green;
+}
+.onebdr{
+    border: 1px solid gray;
+    padding: 19px;
+}
+.one2{
+    margin: 0px;
+    padding: 20px;
+    padding-bottom: 30px;
+    background-color: yellow; */
+/* } */
+.one{
+    border: 1px solid gray;
+    padding: 11px 20px;
+    
+}
+.onegrn{
+    background-color: green;
+    padding: 11px 20px;
+}
+.oneyell{
+    background-color: yellow;
+    padding: 11px 20px;
+}
+.onered{
+    background-color: red;
+    padding: 11px 20px;
+}
+.oneblu{
+    background-color: skyblue;
+    padding: 11px 20px;
+}
+.wrapper div{
+    width: 40px;
+    height: 40px;
+    border: 1px solid;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
